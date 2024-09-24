@@ -11,6 +11,8 @@ Funciona offline após definir a rota
 Suporte para múltiplas rotas de transporte
 Este aplicativo foi desenvolvido com [mencione as tecnologias relevantes, e.g., React Native, Expo, etc.], oferecendo uma experiência confiável e fácil de usar para os passageiros.
 
+APP PATENTEADO COM CODIGO FONTE ABERTO, QUALQUER USO SEM PERMISSÃO DESTE APLICATIVO SERÁ TOMADA AS MEDIDAS CABÍVEIS
+
 
 **BipBus - Bus Stop Alert App**
 
@@ -24,3 +26,5 @@ Easy-to-use interface
 Works offline after setting your route
 Supports multiple transportation routes
 This app is developed with [mention relevant technologies, e.g., React Native, Expo, etc.], providing a reliable and user-friendly experience for commuters.
+
+PATENTED APP WITH OPEN SOURCE CODE, ANY USE WITHOUT PERMISSION OF THIS APPLICATION WILL TAKE APPROPRIATE MEASURES
